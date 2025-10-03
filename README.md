@@ -3,6 +3,48 @@
 
 > 原作品视频（Tencent Video）/ Original show clip:  
 > https://v.qq.com/x/cover/mzc002004l7dytn/c4101w281aj.html
+---
+
+## 技能图标 · Skill Icons
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/icon_fly_sand.png" alt="飞沙走石" width="72"/><br/>
+      <sub>1. 飞沙走石</sub>
+    </td>
+    <td align="center">
+      <img src="assets/icon_still_water.png" alt="静如止水" width="72"/><br/>
+      <sub>2. 静如止水</sub>
+    </td>
+    <td align="center">
+      <img src="assets/icon_drip_stone.png" alt="水滴石穿" width="72"/><br/>
+      <sub>3. 水滴石穿</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/icon_mighty_power.png" alt="力拔山兮" width="72"/><br/>
+      <sub>4. 力拔山兮</sub>
+    </td>
+    <td align="center">
+      <img src="assets/icon_qinna.png" alt="擒拿" width="72"/><br/>
+      <sub>5. 擒拿</sub>
+    </td>
+    <td align="center">
+      <img src="assets/icon_comeback.png" alt="东山再起" width="72"/><br/>
+      <sub>6. 东山再起</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 游戏截图 · In-game Screenshot
+
+<p align="center">
+  <img src="assets/screenshots/ingame.png" alt="游戏运行中的截图 / In-game screenshot" width="720"/>
+</p>
 
 ---
 
