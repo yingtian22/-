@@ -8,8 +8,7 @@
 ## 玩家头像 · Player Avatars
 
 <p align="center">
-  <img src="assets/avatar_skillwu.png" alt="黑方：技能五 / Black: SkillWu" width="120" style="border-radius:50%; margin-right:12px;" />
-  <img src="assets/avatar_ziqi.png" alt="白方：子棋 / White: Ziqi" width="120" style="border-radius:50%; margin-left:12px;" />
+  <img src="assets/avatar.png" alt="技能五子棋" width="120" style="border-radius:50%; margin-right:12px;" />
 </p>
 
 ## 技能图标 · Skill Icons
