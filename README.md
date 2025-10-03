@@ -5,6 +5,13 @@
 > https://v.qq.com/x/cover/mzc002004l7dytn/c4101w281aj.html
 ---
 
+## 玩家头像 · Player Avatars
+
+<p align="center">
+  <img src="assets/avatar_skillwu.png" alt="黑方：技能五 / Black: SkillWu" width="120" style="border-radius:50%; margin-right:12px;" />
+  <img src="assets/avatar_ziqi.png" alt="白方：子棋 / White: Ziqi" width="120" style="border-radius:50%; margin-left:12px;" />
+</p>
+
 ## 技能图标 · Skill Icons
 
 <table>
@@ -43,7 +50,7 @@
 ## 游戏截图 · In-game Screenshot
 
 <p align="center">
-  <img src="assets/screenshots/ingame.png" alt="游戏运行中的截图 / In-game screenshot" width="720"/>
+  <img src="assets/ingame.png" alt="游戏运行中的截图 / In-game screenshot" width="720"/>
 </p>
 
 ---
