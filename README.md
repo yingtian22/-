@@ -8,7 +8,7 @@
 ## 玩家头像 · Player Avatars
 
 <p align="center">
-  <img src="assets/avatar.png" alt="技能五子棋" width="120" style="border-radius:50%; margin-right:12px;" />
+  <img src="assets/avatar.png" alt="技能五子棋" width="120" style="border-radius:100%; margin-right:12px;" />
 </p>
 
 ## 技能图标 · Skill Icons
