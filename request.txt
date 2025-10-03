@@ -1,0 +1,3 @@
+# Skill Gomoku dependencies
+# You can install with: pip install -r request.txt  (or requirements.txt)
+pygame==2.6.1
